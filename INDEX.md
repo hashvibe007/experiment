@@ -6,7 +6,7 @@ A comprehensive index of all entries in this repository.
 
 | Title | Date | Tags | Status |
 |-------|------|------|--------|
-| *No entries yet* | - | - | - |
+| [Real-Time Mortality Detection for Prawn Aquaculture](ideas/prawn-aquaculture-mortality-detection.md) | 2026-01-21 | #aquaculture #iot #agriculture #india #monitoring #earlywarning | Draft |
 
 ## Concepts
 
@@ -28,12 +28,17 @@ A comprehensive index of all entries in this repository.
 
 ## Recent Additions
 
-1. *No entries yet*
+1. [Real-Time Mortality Detection for Prawn Aquaculture](ideas/prawn-aquaculture-mortality-detection.md) - 2026-01-21
 
 ## By Tag
 
 ### Common Tags
-- *Tags will appear as entries are added*
+- **#aquaculture**: [Prawn Mortality Detection](ideas/prawn-aquaculture-mortality-detection.md)
+- **#iot**: [Prawn Mortality Detection](ideas/prawn-aquaculture-mortality-detection.md)
+- **#agriculture**: [Prawn Mortality Detection](ideas/prawn-aquaculture-mortality-detection.md)
+- **#india**: [Prawn Mortality Detection](ideas/prawn-aquaculture-mortality-detection.md)
+- **#monitoring**: [Prawn Mortality Detection](ideas/prawn-aquaculture-mortality-detection.md)
+- **#earlywarning**: [Prawn Mortality Detection](ideas/prawn-aquaculture-mortality-detection.md)
 
 ## Usage
 
@@ -45,5 +50,5 @@ When adding a new entry:
 
 ---
 
-**Total Entries**: 0
-**Last Updated**: 2026-01-19
+**Total Entries**: 1
+**Last Updated**: 2026-01-21
